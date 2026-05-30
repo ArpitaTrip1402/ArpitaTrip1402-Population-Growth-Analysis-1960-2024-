@@ -1,4 +1,4 @@
-### Population-Growth-Analysis(1960-2024)
+## Population-Growth-Analysis(1960-2024)
 Technologies used: Python, Pandas, NumPy, Matplotlib, Seaborn
 -Analysed a global population dataset containing country-level and aggregate entities.
 -Cleaned and filtered the data by identifying and removing non-country aggregates  
